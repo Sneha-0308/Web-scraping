@@ -1,0 +1,12 @@
+{
+    'city': {
+            'coord': {
+                        'lat': 37.7771,
+                         'lon': -122.42
+                      },
+             }
+    'country': 'United States of America',
+    'id': '5391959',
+    'name': 'San Francisco',
+    'population': 0
+}
